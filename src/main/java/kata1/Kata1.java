@@ -5,7 +5,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 public class Kata1 {
-
+    //comentario
     public static void main(String[] args) {
         Calendar date;
         date = GregorianCalendar.getInstance();
