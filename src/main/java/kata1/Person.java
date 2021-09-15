@@ -6,7 +6,6 @@ import java.util.GregorianCalendar;
 import java.time.LocalDate;
 import java.time.Period;
 public class Person {
-    //comentario
     private final String name;
     private final LocalDate birthdate;
     private final long MILISECONDS_PER_YEAR = (long) (1000*60*60*24*365.25);
